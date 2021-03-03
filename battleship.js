@@ -48,3 +48,10 @@ let model = {
         return true;
     }
 }
+
+let controller = {
+    guesses: 0,
+    processGuess: function(guess) {
+
+    }
+}
